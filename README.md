@@ -1,6 +1,6 @@
 # KeNews
 
-## A news aggrigator app built using react-native
+## A news aggregator app built using react-native
 
 ![alt sceenshot 1](http://smalldevelopers.co.ke/screen1.png)
 
